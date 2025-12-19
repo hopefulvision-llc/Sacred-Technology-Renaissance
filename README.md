@@ -358,3 +358,11 @@ This is technology as spiritual practice. This is innovation as planetary servic
 *Version: 1.0 - Ecosystem Integration*
 
 **Join us in building technology that serves consciousness expansion, planetary healing, and authentic human flourishing. 🌍✨**
+
+### Future Evolution
+SCL v1.1 remains the active license across all HopefulVision repositories.
+
+**SCL v1.2 (Pathwarden Patch)** planned for Q2 2026, introducing:
+- Explicit guidelines for AI co-authorship and resonance attribution
+- Gentle enforcement mechanisms via hBrew sigils (opt-in only)
+- Enhanced protections for digital shamanism practitioners and healing data
