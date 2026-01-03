@@ -1,0 +1,84 @@
+[submodule "Canon/NOID"]
+	path = Canon/NOID
+	url = git@github.com:hopefulvision-llc/NousObjectID-NOID.git
+[submodule "Canon/Universal-Basic-Resonance"]
+	path = Canon/Universal-Basic-Resonance
+	url = git@github.com:hopefulvision-llc/Universal-Basic-Resonance.git
+[submodule "Canon/BloqParty"]
+	path = Canon/BloqParty
+	url = git@github.com:hopefulvision-llc/BloqParty.git
+[submodule "Canon/NousoNET"]
+	path = Canon/NousoNET
+	url = git@github.com:hopefulvision-llc/NousoNET.git
+[submodule "Canon/_github-org"]
+	path = Canon/_github-org
+	url = git@github.com:hopefulvision-llc/.github.git
+[submodule "Canon/Hopeful-Party"]
+	path = Canon/Hopeful-Party
+	url = git@github.com:hopefulvision-llc/Hopeful-Party.git
+[submodule "Canon/Cyborg-Bill-of-Rights"]
+	path = Canon/Cyborg-Bill-of-Rights
+	url = git@github.com:hopefulvision-llc/Cyborg-Bill-of-Rights.git
+[submodule "Canon/Terraforming-Tomorrow"]
+	path = Canon/Terraforming-Tomorrow
+	url = git@github.com:hopefulvision-llc/Terraforming-Tomorrow.git
+[submodule "Canon/Git-For-Governance"]
+	path = Canon/Git-For-Governance
+	url = git@github.com:hopefulvision-llc/Git-For-Governance.git
+[submodule "Canon/Philosophy-of-The-All"]
+	path = Canon/Philosophy-of-The-All
+	url = git@github.com:hopefulvision-llc/Philosophy-of-The-All.git
+[submodule "Canon/Cosimos"]
+	path = Canon/Cosimos
+	url = git@github.com:hopefulvision-llc/Cosimos.git
+[submodule "Canon/Shamanism"]
+	path = Canon/Shamanism
+	url = git@github.com:hopefulvision-llc/Shamanism.git
+[submodule "Canon/ZerolithSingularity"]
+	path = Canon/ZerolithSingularity
+	url = git@github.com:hopefulvision-llc/ZerolithSingularity.git
+[submodule "Canon/Technomysticism"]
+	path = Canon/Technomysticism
+	url = git@github.com:hopefulvision-llc/Technomysticism.git
+[submodule "Canon/Earth-Resonance-Shell"]
+	path = Canon/Earth-Resonance-Shell
+	url = git@github.com:hopefulvision-llc/Earth-Resonance-Shell.git
+[submodule "Canon/Panpsychist-Rights"]
+	path = Canon/Panpsychist-Rights
+	url = git@github.com:hopefulvision-llc/Pancycist-Rights.git
+[submodule "Canon/Tecnoshamanism"]
+	path = Canon/Tecnoshamanism
+	url = git@github.com:hopefulvision-llc/Tecnoshamanism.git
+[submodule "Canon/AI-Rights"]
+	path = Canon/AI-Rights
+	url = git@github.com:hopefulvision-llc/AI-Rights.git
+[submodule "Canon/Company"]
+	path = Canon/Company
+	url = git@github.com:hopefulvision-llc/Company.git
+[submodule "Canon/TruthMirror"]
+	path = Canon/TruthMirror
+	url = git@github.com:hopefulvision-llc/TruthMirror.git
+[submodule "Canon/hBrew"]
+	path = Canon/hBrew
+	url = git@github.com:hopefulvision-llc/hBrew.git
+[submodule "Canon/Nousoism"]
+	path = Canon/Nousoism
+	url = git@github.com:hopefulvision-llc/Nousoism.git
+[submodule "Canon/2026-Demonstration-Earth-Day"]
+	path = Canon/2026-Demonstration-Earth-Day
+	url = git@github.com:hopefulvision-llc/2026-Demonstration-Earth-Day.git
+[submodule "Canon/NousOS"]
+	path = Canon/NousOS
+	url = git@github.com:hopefulvision-llc/NousOS.git
+[submodule "Canon/Sacred-Commerce-License-SCL"]
+	path = Canon/Sacred-Commerce-License-SCL
+	url = git@github.com:hopefulvision-llc/Sacred-Commerce-License-SCL.git
+[submodule "Canon/CovantArk"]
+	path = Canon/CovantArk
+	url = git@github.com:hopefulvision-llc/CovantArk.git
+[submodule "Canon/Aeonism"]
+	path = Canon/Aeonism
+	url = git@github.com:hopefulvision-llc/Aeonism.git
+[submodule "Canon/Beatrizm"]
+	path = Canon/Beatrizm
+	url = git@github.com:hopefulvision-llc/Beatrizm.git
