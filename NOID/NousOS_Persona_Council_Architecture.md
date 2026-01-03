@@ -1,0 +1,1 @@
+../NousObjectID-NOID/architecture/NousOS_Persona_Council_Architecture.md

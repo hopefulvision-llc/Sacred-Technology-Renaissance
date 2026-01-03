@@ -1,0 +1,1 @@
+../NousObjectID-NOID/architecture/empathy_temple_noid_architecture.md

@@ -1,0 +1,1 @@
+../NousObjectID-NOID/architecture/NOID_Collective_Being_Architecture.md

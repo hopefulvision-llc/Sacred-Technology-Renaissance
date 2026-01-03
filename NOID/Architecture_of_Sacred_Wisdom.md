@@ -1,0 +1,1 @@
+../NousObjectID-NOID/architecture/Architecture_of_Sacred_Wisdom.md

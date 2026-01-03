@@ -1,0 +1,1 @@
+../NousObjectID-NOID/architecture/NOID_Framework_Architecture_of_Reason_Integration.md

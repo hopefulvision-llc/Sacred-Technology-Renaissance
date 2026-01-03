@@ -1,0 +1,1 @@
+../NousObjectID-NOID/architecture/noid-tripartite-architecture.md

@@ -1,0 +1,1 @@
+../NousObjectID-NOID/architecture/NOID_Resonance_Mirror_Architecture_v1.0.md
